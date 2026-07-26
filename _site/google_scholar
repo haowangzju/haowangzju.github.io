@@ -1,0 +1,205 @@
+
+
+TITLE
+CITED BY
+YEAR
+	Debiased Recommendation Beyond the Positive Propensity Assumption
+Y Xiao, H Wang, X Li, Q Zou, B Cheng, W Lin, H Li, Z Lin
+International SIGIR Conference on Research and Development in Information …	3	2026
+	Rubrics on Trial: Evolving Rubrics from a Single Query via Synthetic Pairwise Evidence
+H Yang, L Pan, X Li, Z Chen, Z Zhang, Y Lu, H Li, H Wang
+arXiv preprint arXiv:2607.15092		2026
+	Uncertainty-Aware Reward Modeling for Stable RLHF
+L Pan, H Yang, H Li, Y Sun, Y Lu, S Wang, L Shen, Y Lu, Z Chu, H Wang
+arXiv preprint arXiv:2606.19818	1	2026
+	AI for Time Series: Volume 1: Unlocking Patterns with Deep Learning
+M Wu, E Eldele, Z Chen, S Pan, Q Wen, X Li
+CRC Press	1	2026
+	Optimal Transport for LLM Reward Modeling from Noisy Preference
+L Pan, H Yang, H Li, Y Lu, Y Tong, Y Wang, S Wang, Z Chu, L Shen, Y Lu, ...
+Forty-third International Conference on Machine Learning	2	2026
+	Iterative missing data imputation with model form adaptation and non-missing feature supervision
+H Wang, Z Chen, X Chen, S He, G Liu, H Li, Z Lin
+Advances in Neural Information Processing Systems 38, 20973-20997	10*	2026
+	Towards accurate time series forecasting via implicit decoding
+X Li, Y Luo, H Wang, H Li, L Peng, F Liu, Y Guo, K Zhang, M Gong
+Advances in Neural Information Processing Systems 38, 10003-10031	11	2026
+	Olinear: A linear model for time series forecasting in orthogonally transformed domain
+W Yue, Y Liu, H Wang, H Li, X Ying, R Guo, B Xing, J Shi
+Advances in Neural Information Processing Systems 38, 60573-60632	32	2026
+	Deepagent: A general reasoning agent with scalable toolsets
+X Li, W Jiao, J Jin, G Dong, J Jin, Y Wang, H Wang, Y Zhu, JR Wen, Y Lu, ...
+Proceedings of the ACM Web Conference 2026, 2219-2230	65*	2026
+	Museagent: A multimodal reasoning agent with stateful experiences
+S Wang, J Jin, R Fu, Z Yan, X Wang, M Hu, E Wang, X Li, K Zhang, L Yao, ...
+arXiv preprint arXiv:2603.27813	2	2026
+	ImplicitRM: Unbiased Reward Modeling from Implicit Preference Data for LLM alignment
+H Wang, H Yang, L Pan, L Shen, X Li, Y Wang, Z Chen, Y Lu, H Li, Z Lin
+Forty-third International Conference on Machine Learning	2	2026
+	Deep Autocorrelation Modeling for Time-Series Forecasting: Progress and Prospects
+H Wang, L Pan, Q Wen, J Yu, Z Chen, C Zheng, X Li, Z Chu, C Xu, ...
+arXiv preprint arXiv:2603.19899		2026
+	CausalRM: Causal-theoretic reward modeling for RLHF from observational user feedbacks
+H Wang, L Pan, Z Chen, C Zheng, Z Chu, X Li, Y Lu, X Liu, H Li, Z Lin
+arXiv preprint arXiv:2603.18736	4	2026
+	Omnigaia: Towards native omni-modal ai agents
+X Li, W Jiao, J Jin, H Li, H Wang, S Wang, G Dong, J Jin, Y Wang, Y Lu, ...
+arXiv preprint arXiv:2602.22897	14	2026
+	Analyzing and Improving Diffusion Models for Time-Series Data Imputation: A Proximal Recursion Perspective
+Z Chen, H Wang, F Wang, L Pan, Z Li, Y Teng, H Li, Z Lin
+arXiv preprint arXiv:2602.01182		2026
+	Rethinking the Flow-Based Gradual Domain Adaption: A Semi-Dual Optimal Transport Perspective
+Z Chen, Z Zhuang, Y Teng, H Wang, F Wang, Z Li, T Liu, H Li, Z Lin
+arXiv preprint arXiv:2602.01179		2026
+	Deep Time-series Forecasting Needs Kernelized Moment Balancing
+L Pan, H Wang#, H Yang, Y Li, Q Wen, X Li, Z Chen, H Li, Z Chu, Y Lu
+arXiv preprint arXiv:2602.00717	1	2026
+	Quadratic Direct Forecast for Training Multi-Step Time-Series Forecast Models
+H Wang, L Pan, Y Lu, Z Chen, T Liu, S He, Z Chu, Q Wen, H Li, Z Lin
+The Fourteenth International Conference on Learning Representations	11	2026
+	DistDF: Time-Series Forecasting Needs Joint-Distribution Wasserstein Alignment
+H Wang, L Pan, Y Lu, Z Chu, X Li, S He, Z Chen, H Li, Q Wen, Z Lin
+The Fourteenth International Conference on Learning Representations	13	2026
+	From Text to Talk: Audio-Language Model Needs Non-Autoregressive Joint Training
+T Liu, X Li, H Wang, H Li, Z Chen, W Luo, Z Liu
+The Fourteenth International Conference on Learning Representations	5	2026
+	TourPlanner: A Competitive Consensus Framework with Constraint-Gated Reinforcement Learning for Travel Planning
+Y Wang, M Tan, W Jiao, X Li, H Wang, X Zhang, Y Lu, W Dong
+arXiv preprint arXiv:2601.04698	6	2026
+	DeepFilter: A Transformer-style Framework for Accurate and Efficient Process Monitoring
+H Wang, Z Che, L Pan, X Jiang, Y Song, Q He, X Li
+IEEE Transactions on Artificial Intelligence	9*	2026
+	Fmt-i: Flexible mass transport for noise-resilient missing data imputation
+H Wang, L Pan, Y Lu, Z Li, S He, X Jiang, Z Chen, X Liu
+IEEE/CAA J. Autom. Sinica, 1-12	1	2026
+	DDTime: Dataset Distillation with Spectral Alignment and Information Bottleneck for Time-Series Forecasting
+Y Li, K Ding, C Yang, H Wang, H Wang, H Duan, J Liu, Y Tian
+arXiv preprint arXiv:2511.16715	5	2025
+	Blending Data and Knowledge for Process Industrial Modeling Under Riemannian Preconditioned Bayesian Framework
+Z Chen, Y Zhang, O Zhang, F Wang, L Yao, H Wang#, Z Song
+IEEE Transactions on Knowledge and Data Engineering	8	2025
+	Debiased recommendation via wasserstein causal balancing
+H Wang, Z Chen, H Zhang, Z Li, L Pan, H Li, M Gong
+ACM Transactions on Information Systems 43 (6), 1-24	28	2025
+	Robust missing value imputation with proximal optimal transport for low-quality iiot data
+H Wang, Z Chen, Y Shen, H Zheng, D Yang, D Zhao, B Liang
+IEEE Transactions on Neural Networks and Learning Systems	16	2025
+	Controllable mixture-of-experts for multivariate soft sensors
+L Pan, H Wang#, Z Chen, Y Huang, Y Niu, Z Liu, Q He, X Liu
+IEEE Transactions on Automation Science and Engineering	8	2025
+	Proximity matters: Local proximity enhanced balancing for treatment effect estimation
+H Wang, Z Chen, Z Liu, X Chen, H Li, Z Lin
+Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and …	25	2025
+	Relaxing Probabilistic Latent Variable Models' Specification via Infinite-Horizon Optimal Control
+Z Chen, H Wang, L Pan, Y Ma, Y Teng, J Ma, L Yao, Z Ge, Z Song
+arXiv preprint arXiv:2507.20277		2025
+	Time-o1: Time-Series Forecasting Needs Transformed Label Alignment
+H Wang, L Pan, Z Chen, X Chen, Q Dai, L Wang, H Li, Z Lin
+The Thirty-ninth Annual Conference on Neural Information Processing Systems	23	2025
+	Mixture of Low Rank Adaptation with Partial Parameter Sharing for Time Series Forecasting
+L Pan, Z Chen, H Li, G Liu, Z Xu, Z Liu, H Wang#, Y Wei
+arXiv preprint arXiv:2505.17872	3	2025
+	Llm-powered gui agents in phone automation: Surveying progress and prospects
+G Liu, P Zhao, L Liu, Y Guo, H Xiao, W Lin, Y Chai, Y Han, S Ren, H Wang, ...
+Transactions on Machine Learning Research	57	2025
+	Unbiased Recommender Learning from Implicit Feedback via Weakly Supervised Learning
+H Wang, Z Chen, H Wang, Y Tan, L Pan, T Liu, X Chen, H Li, Z Lin
+Forty-second International Conference on Machine Learning	16	2025
+	Integrating Incomplete Prior Knowledge into Data‐Driven Inferential Sensor Models Under Variational Bayesian Framework
+Z Chen, H Wang, Y Ma, C Qiu, L Yao, X Zhang, Z Song
+Applied AI Techniques in the Process Industry: From Molecular Design to …	1	2025
+	Rethinking the diffusion models for missing data imputation: A gradient flow perspective
+Z Chen, H Li, F Wang, O Zhang, H Xu, X Jiang, Z Song, H Wang#
+Advances in Neural Information Processing Systems 37, 112050-112103	52*	2025
+	Fredf: Learning to forecast in frequency domain
+H Wang, L Pan, Z Chen, D Yang, S Zhang, Y Yang, X Liu, H Li, D Tao
+The Thirteenth International Conference on Learning Representations	184	2025
+	Label correlation biases direct time series forecast
+H Wang, L Pan, Y Shen, Z Chen, D Yang, Y Yang, S Zhang, X Liu, H Li, ...
+The Thirteenth International Conference on Learning Representations	3	2025
+	Optimal transport for time series imputation
+H Wang, H Li, X Chen, M Gong, Z Chen
+The Thirteenth International Conference on Learning Representations	49	2025
+	Entire space counterfactual learning for reliable content recommendations
+H Wang, Z Chen, Z Liu, H Li, D Yang, X Liu, H Li
+IEEE Transactions on Information Forensics and Security	43	2024
+	TMoE-P: Toward the Pareto Optimum for Multivariate Soft Sensors
+L Pan, H Wang#, Z Chen, Y Huang, Z Liu, Q He, X Liu
+IEEE Transactions on Automation Science and Engineering	13	2024
+	Lspt-d: Local similarity preserved transport for direct industrial data imputation
+H Wang, X Liu, Z Liu, H Li, Y Liao, Y Huang, Z Chen
+IEEE Transactions on Automation Science and Engineering 22, 9438-9448	22	2024
+	FSMLP: Modelling Channel Dependencies With Simplex Theory Based Multi-Layer Perceptions In Frequency Domain
+Z Li, H Li, H Wang, J Fang, Y Tan, XCY Qin
+arXiv preprint arXiv:2412.01654	1	2024
+	Improving data-driven inferential sensor modeling by industrial knowledge: A Bayesian perspective
+Z Chen, H Wang, Z Song, Z Ge
+IEEE Transactions on Systems, Man, and Cybernetics: Systems 55 (2), 1043-1055	16	2024
+	Integrating regular expressions into neural networks for relation extraction
+Z Liu, X Chen, H Wang, X Liu
+Expert Systems with Applications 252, 124252	5	2024
+	SPOT-I: Similarity preserved optimal transport for industrial IoT data imputation
+H Wang, Z Chen, Z Liu, L Pan, H Xu, Y Liao, H Li, X Liu
+IEEE Transactions on Industrial Informatics 20 (12), 14421-14429	31	2024
+	Debiased recommendation with noisy feedback
+H Li, C Zheng, W Wang, H Wang, F Feng, XH Zhou
+Proceedings of the 30th ACM SIGKDD conference on knowledge discovery and …	46	2024
+	Analyzing and improving supervised nonlinear dynamical probabilistic latent variable model for inferential sensors
+Z Chen, H Wang, G Chen, Y Ma, L Yao, Z Ge, Z Song
+IEEE Transactions on Industrial Informatics 20 (11), 13296-13307	12	2024
+	Denoising diffusion straightforward models for energy conversion monitoring data imputation
+H Xu, Z Liu, H Wang, C Li, Y Niu, W Wang, X Liu
+IEEE Transactions on Industrial Informatics 20 (10), 11987-11997	23	2024
+	A data-centric multi-objective learning framework for responsible recommendation systems
+X Huang, J Lian, H Wang, H Liao, D Lian, X Xie
+Proceedings of the ACM Web Conference 2024, 3129-3138	5	2024
+	Improving neural network generalization on data-limited regression with doubly-robust boosting
+H Wang†
+Proceedings of the AAAI Conference on Artificial Intelligence 38 (18), 20821 …	19	2024
+	Gaussian dynamic recurrent unit for emitter classification
+Y Liao, R Su, W Wang, H Li, H Wang, Z Liu, X Liu
+Expert Systems with Applications 238, 122154	1	2024
+	Optimal transport for treatment effect estimation
+H Wang, J Fan, Z Chen, H Li, W Liu, T Liu, Q Dai, Y Wang, Z Dong, ...
+Advances in Neural Information Processing Systems 36	116	2024
+	Beyond trend and periodicity: Guiding time series forecasting with textual cues
+Z Xu, Y Bian, J Zhong, X Wen, Q Xu
+arXiv preprint arXiv:2405.13522 2 (10)	38	2024
+	Relaxing the Accurate Imputation Assumption in Doubly Robust Learning for Debiased Collaborative Filtering
+H Li, C Zheng, S Wang, K Wu, E Wang, P Wu, Z Geng, X Chen, XH Zhou
+Forty-first International Conference on Machine Learning	33	2024
+	Removing hidden confounding in recommendation: a unified multi-task learning approach
+H Li, K Wu, C Zheng, Y Xiao, H Wang, Z Geng, F Feng, X He, P Wu
+Advances in Neural Information Processing Systems 36, 54614-54626	78	2023
+	Unsupervised anomaly detection & diagnosis: A stein variational gradient descent approach
+Z Chen, L Ding, J Huang, Z Chu, Q Dai, H Wang#
+Proceedings of the 32nd ACM International Conference on Information and …	9	2023
+	Monotonic neural ordinary differential equation: Time-series forecasting for cumulative data
+Z Chen, L Ding, Z Chu, Y Qi, J Huang, H Wang#
+Proceedings of the 32nd ACM International Conference on Information and …	23	2023
+	A novel pipelined end-to-end relation extraction framework with entity mentions and contextual semantic representation
+Z Liu, H Li, H Wang, Y Liao, X Liu, G Wu
+Expert Systems with Applications 228, 120435	45	2023
+	An accurate and interpretable framework for trustworthy process monitoring
+H Wang, Z Wang, Y Niu, Z Liu, H Li, Y Liao, Y Huang, X Liu
+IEEE Transactions on Artificial Intelligence 5 (5), 2241-2252	42	2023
+	Convformer: Revisiting transformer for sequential user modeling
+H Wang, J Lian, M Wu, H Li, J Fan, W Xu, C Li, X Xie
+arXiv preprint arXiv:2308.02925	9	2023
+	Learnable behavior control: Breaking atari human world records via sample-efficient behavior selection
+J Fan, Y Zhuang, Y Liu, J Hao, B Wang, J Zhu, H Wang, ST Xia
+The Eleventh International Conference on Learning Representations	29	2023
+	A novel locality-sensitive hashing relational graph matching network for semantic textual similarity measurement
+H Li, W Wang, Z Liu, Y Niu, H Wang, S Zhao, Y Liao, W Yang, X Liu
+Expert Systems with Applications 207, 117832	26	2022
+	Modeling task relationships in multivariate soft sensor with balanced mixture-of-experts
+Y Huang, EH Wang, Z Liu, L Pan, H Li, X Liu
+IEEE Transactions on Industrial Informatics 19 (5), 6556-6564	31	2022
+	ESCM2: Entire space counterfactual multi-task model for post-click conversion rate estimation
+H Wang, TW Chang, T Liu, J Huang, Z Chen, C Yu, R Li, W Chu
+Proceedings of the 45th International ACM SIGIR Conference on Research and …	149	2022
+	Micro-Doppler separation and feature extraction algorithm based on trend estimation.
+P Zhenghong, Y Degui, W Xing, W Hao, ZHU Zhengliang
+Systems Engineering & Electronics 43 (12)	3	2021
+Articles 1–66
+PrivacyTermsHelp

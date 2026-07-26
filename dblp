@@ -1,0 +1,134 @@
+	[j20]		Hao Wang, Zhichao Chen, Licheng Pan, Xiaoyu Jiang, Yichen Song, Qunshan He, Xinggao Liu:
+DeepFilter: A Transformer-Style Framework for Accurate and Efficient Process Monitoring. IEEE Trans. Artif. Intell. 7(7): 3979-3989 (2026)
+	[j19]		Zhichao Chen, Yulong Zhang, Odin Zhang, Fangyikang Wang, Le Yao, Hao Wang, Zhihuan Song:
+Blending Data and Knowledge for Process Industrial Modeling Under Riemannian Preconditioned Bayesian Framework. IEEE Trans. Knowl. Data Eng. 38(1): 82-95 (2026)
+	[j18]		Hao Wang, Zhichao Chen, Yuan Shen, Hui Zheng, Degui Yang, Dangjun Zhao, Buge Liang:
+Robust Missing Value Imputation With Proximal Optimal Transport for Low-Quality IIoT Data. IEEE Trans. Neural Networks Learn. Syst. 37(1): 82-94 (2026)
+	[c18]		Yanghao Xiao, Hao Wang, Xiang Li, Qian Zou, Cheng Bing, Wei Lin, Haoxuan Li, Zhouchen Lin:
+Debiased Recommendation Beyond the Positive Propensity Assumption. SIGIR 2026: 2061-2071
+	[c17]		Xiaoxi Li, Wenxiang Jiao, Jiarui Jin, Guanting Dong, Jiajie Jin, Yinuo Wang, Hao Wang, Yutao Zhu, Ji-Rong Wen, Yuan Lu, Zhicheng Dou:
+DeepAgent: A General Reasoning Agent with Scalable Toolsets. WWW 2026: 2219-2230
+	[i30]		Licheng Pan, Hao Wang, Haocheng Yang, Yuqi Li, Qingsong Wen, Xiaoxi Li, Zhichao Chen, Haoxuan Li, Zhixuan Chu, Yuan Lu:
+Deep Time-series Forecasting Needs Kernelized Moment Balancing. CoRR abs/2602.00717 (2026)
+	[i29]		Zhichao Chen, Zhan Zhuang, Yunfei Teng, Hao Wang, Fangyikang Wang, Zhengnan Li, Tianqiao Liu, Haoxuan Li, Zhouchen Lin:
+Rethinking the Flow-Based Gradual Domain Adaption: A Semi-Dual Optimal Transport Perspective. CoRR abs/2602.01179 (2026)
+	[i28]		Zhichao Chen, Hao Wang, Fangyikang Wang, Licheng Pan, Zhengnan Li, Yunfei Teng, Haoxuan Li, Zhouchen Lin:
+Analyzing and Improving Diffusion Models for Time-Series Data Imputation: A Proximal Recursion Perspective. CoRR abs/2602.01182 (2026)
+	[i27]		Hao Wang, Licheng Pan, Zhichao Chen, Chunyuan Zheng, Zhixuan Chu, Xiaoxi Li, Yuan Lu, Xinggao Liu, Haoxuan Li, Zhouchen Lin:
+CausalRM: Causal-Theoretic Reward Modeling for RLHF from Observational User Feedbacks. CoRR abs/2603.18736 (2026)
+	[i26]		Hao Wang, Licheng Pan, Qingsong Wen, Jialin Yu, Zhichao Chen, Chunyuan Zheng, Xiaoxi Li, Zhixuan Chu, Chao Xu, Mingming Gong, Haoxuan Li, Yuan Lu, Zhouchen Lin, Philip Torr, Yan Liu:
+Deep Autocorrelation Modeling for Time-Series Forecasting: Progress and Prospects. CoRR abs/2603.19899 (2026)
+	[i25]		Hao Wang, Haocheng Yang, Licheng Pan, Lei Shen, Xiaoxi Li, Yinuo Wang, Zhichao Chen, Yuan Lu, Haoxuan Li, Zhouchen Lin:
+ImplicitRM: Unbiased Reward Modeling from Implicit Preference Data for LLM alignment. CoRR abs/2603.23184 (2026)
+	[i24]		Licheng Pan, Haochen Yang, Haoxuan Li, Yunsheng Lu, Yongqi Tong, Yinuo Wang, Shijian Wang, Zhixuan Chu, Lei Shen, Yuan Lu, Hao Wang:
+Optimal Transport for LLM Reward Modeling from Noisy Preference. CoRR abs/2605.06036 (2026)
+	[i23]		Licheng Pan, Haocheng Yang, Haoxuan Li, Yichen Sun, Yunsheng Lu, Shijian Wang, Lei Shen, Yuan Lu, Zhixuan Chu, Hao Wang:
+Uncertainty-Aware Reward Modeling for Stable RLHF. CoRR abs/2606.19818 (2026)
+2025
+	[j17]		Licheng Pan, Hao Wang, Zhichao Chen, Yuxin Huang, Zhaoran Liu, Qunshan He, Xinggao Liu:
+TMoE-P: Toward the Pareto Optimum for Multivariate Soft Sensors. IEEE Trans Autom. Sci. Eng. 22: 9315-9326 (2025)
+	[j16]		Hao Wang, Xinggao Liu, Zhaoran Liu, Haozhe Li, Yilin Liao, Yuxin Huang, Zhichao Chen:
+LSPT-D: Local Similarity Preserved Transport for Direct Industrial Data Imputation. IEEE Trans Autom. Sci. Eng. 22: 9438-9448 (2025)
+	[j15]		Licheng Pan, Hao Wang, Zhichao Chen, Yuxin Huang, Yunlong Niu, Zhaoran Liu, Qunshan He, Xinggao Liu:
+Controllable Mixture-of-Experts for Multivariate Soft Sensors. IEEE Trans Autom. Sci. Eng. 22: 19789-19800 (2025)
+	[j14]		Hao Wang, Zhichao Chen, Zhaoran Liu, Haozhe Li, Degui Yang, Xinggao Liu, Haoxuan Li:
+Entire Space Counterfactual Learning for Reliable Content Recommendations. IEEE Trans. Inf. Forensics Secur. 20: 1755-1764 (2025)
+	[j13]		Hao Wang, Zhichao Chen, Honglei Zhang, Zhengnan Li, Licheng Pan, Haoxuan Li, Mingming Gong:
+Debiased Recommendation via Wasserstein Causal Balancing. ACM Trans. Inf. Syst. 43(6): 145:1-145:24 (2025)
+	[j12]		Zhichao Chen, Hao Wang, Zhihuan Song, Zhiqiang Ge:
+Improving Data-Driven Inferential Sensor Modeling by Industrial Knowledge: A Bayesian Perspective. IEEE Trans. Syst. Man Cybern. Syst. 55(2): 1043-1055 (2025)
+	[c16]		Hao Wang, Lichen Pan, Yuan Shen, Zhichao Chen, Degui Yang, Yifei Yang, Sen Zhang, Xinggao Liu, Haoxuan Li, Dacheng Tao:
+FreDF: Learning to Forecast in the Frequency Domain. ICLR 2025
+	[c15]		Hao Wang, Zhengnan Li, Haoxuan Li, Xu Chen, Mingming Gong, BinChen, Zhichao Chen:
+Optimal Transport for Time Series Imputation. ICLR 2025
+	[c14]		Hao Wang, Zhichao Chen, Haotian Wang, Yanchao Tan, Pan Li, Tianqiao Liu, Xu Chen, Haoxuan Li, Zhouchen Lin:
+Unbiased Recommender Learning from Implicit Feedback via Weakly Supervised Learning. ICML 2025
+	[c13]		Hao Wang, Zhichao Chen, Zhaoran Liu, Xu Chen, Haoxuan Li, Zhouchen Lin:
+Proximity Matters: Local Proximity Enhanced Balancing for Treatment Effect Estimation. KDD (2) 2025: 2927-2937
+	[i22]		Hao Wang, Zhichao Chen, Licheng Pan, Xiaoyu Jiang, Yichen Song, Qunshan He, Xinggao Liu:
+DeepFilter: An Instrumental Baseline for Accurate and Efficient Process Monitoring. CoRR abs/2501.01342 (2025)
+	[i21]		Hao Wang, Licheng Pan, Zhichao Chen, Xu Chen, Qingyang Dai, Lei Wang, Haoxuan Li, Zhouchen Lin:
+TransDF: Time-Series Forecasting Needs Transformed Label Alignment. CoRR abs/2505.17847 (2025)
+	[i20]		Licheng Pan, Zhichao Chen, Haoxuan Li, Guangyi Liu, Zhijian Xu, Zhaoran Liu, Hao Wang, Ying Wei:
+Mixture of Low Rank Adaptation with Partial Parameter Sharing for Time Series Forecasting. CoRR abs/2505.17872 (2025)
+	[i19]		Zhichao Chen, Hao Wang, Licheng Pan, Yiran Ma, Yunfei Teng, Jiaze Ma, Le Yao, Zhiqiang Ge, Zhihuan Song:
+Relaxing Probabilistic Latent Variable Models' Specification via Infinite-Horizon Optimal Control. CoRR abs/2507.20277 (2025)
+	[i18]		Tianqiao Liu, Xueyi Li, Hao Wang, Haoxuan Li, Zhichao Chen, Weiqi Luo, Zitao Liu:
+From Text to Talk: Audio-Language Model Needs Non-Autoregressive Joint Training. CoRR abs/2509.20072 (2025)
+	[i17]		Hao Wang, Licheng Pan, Yuan Lu, Zhixuan Chu, Xiaoxi Li, Shuting He, Zhichao Chen, Haoxuan Li, Qingsong Wen, Zhouchen Lin:
+DistDF: Time-Series Forecasting Needs Joint-Distribution Wasserstein Alignment. CoRR abs/2510.24574 (2025)
+	[i16]		Hao Wang, Licheng Pan, Yuan Lu, Zhichao Chen, Tianqiao Liu, Shuting He, Zhixuan Chu, Qingsong Wen, Haoxuan Li, Zhouchen Lin:
+Quadratic Direct Forecast for Training Multi-Step Time-Series Forecast Models. CoRR abs/2511.00053 (2025)
+	[i15]		Rongyao Cai, Yuxi Wan, Kexin Zhang, Ming Jin, Hao Wang, Zhiqiang Ge, Daoyi Dong, Yong Li, Qingsong Wen:
+The Procrustean Bed of Time Series: The Optimization Bias of Point-wise Loss. CoRR abs/2512.18610 (2025)
+2024
+	[j11]		Yilin Liao, Rixin Su, Wenhai Wang, Haozhe Li, Hao Wang, Zhaoran Liu, Xinggao Liu:
+Gaussian dynamic recurrent unit for emitter classification. Expert Syst. Appl. 238(Part E): 122154 (2024)
+	[j10]		Zhaoran Liu, Xinjie Chen, Hao Wang, Xinggao Liu:
+Integrating regular expressions into neural networks for relation extraction. Expert Syst. Appl. 252: 124252 (2024)
+	[j9]		Hao Wang, Zhiyu Wang, Yunlong Niu, Zhaoran Liu, Haozhe Li, Yilin Liao, Yuxin Huang, Xinggao Liu:
+An Accurate and Interpretable Framework for Trustworthy Process Monitoring. IEEE Trans. Artif. Intell. 5(5): 2241-2252 (2024)
+	[j8]		Hu Xu, Zhaoran Liu, Hao Wang, Changdi Li, Yunlong Niu, Wenhai Wang, Xinggao Liu:
+Denoising Diffusion Straightforward Models for Energy Conversion Monitoring Data Imputation. IEEE Trans. Ind. Informatics 20(10): 11987-11997 (2024)
+	[j7]		Zhichao Chen, Hao Wang, Guofei Chen, Yiran Ma, Le Yao, Zhiqiang Ge, Zhihuan Song:
+Analyzing and Improving Supervised Nonlinear Dynamical Probabilistic Latent Variable Model for Inferential Sensors. IEEE Trans. Ind. Informatics 20(11): 13296-13307 (2024)
+	[j6]		Hao Wang, Zhichao Chen, Zhaoran Liu, Licheng Pan, Hu Xu, Yilin Liao, Haozhe Li, Xinggao Liu:
+SPOT-I: Similarity Preserved Optimal Transport for Industrial IoT Data Imputation. IEEE Trans. Ind. Informatics 20(12): 14421-14429 (2024)
+	[c12]		Hao Wang:
+Improving Neural Network Generalization on Data-Limited Regression with Doubly-Robust Boosting. AAAI 2024: 20821-20829
+	[c11]		Haoxuan Li, Chunyuan Zheng, Shuyi Wang, Kunhan Wu, Eric Hao Wang, Peng Wu, Zhi Geng, Xu Chen, Xiao-Hua Zhou:
+Relaxing the Accurate Imputation Assumption in Doubly Robust Learning for Debiased Collaborative Filtering. ICML 2024: 29448-29460
+	[c10]		Haoxuan Li, Chunyuan Zheng, Wenjie Wang, Hao Wang, Fuli Feng, Xiao-Hua Zhou:
+Debiased Recommendation with Noisy Feedback. KDD 2024: 1576-1586
+	[c9]		Zhichao Chen, Haoxuan Li, Fangyikang Wang, Odin Zhang, Hu Xu, Xiaoyu Jiang, Zhihuan Song, Hao Wang:
+Rethinking the Diffusion Models for Missing Data Imputation: A Gradient Flow Perspective. NeurIPS 2024
+	[c8]		Xu Huang, Jianxun Lian, Hao Wang, Hao Liao, Defu Lian, Xing Xie:
+A Data-Centric Multi-Objective Learning Framework for Responsible Recommendation Systems. WWW 2024: 3129-3138
+	[i14]		Hao Wang, Licheng Pan, Zhichao Chen, Degui Yang, Sen Zhang, Yifei Yang, Xinggao Liu, Haoxuan Li, Dacheng Tao:
+FreDF: Learning to Forecast in Frequency Domain. CoRR abs/2402.02399 (2024)
+	[i13]		Haoxuan Li, Chunyuan Zheng, Wenjie Wang, Hao Wang, Fuli Feng, Xiao-Hua Zhou:
+Debiased Recommendation with Noisy Feedback. CoRR abs/2406.17182 (2024)
+	[i12]		Hao Wang, Zhichao Chen, Yuan Shen, Jiajun Fan, Zhaoran Liu, Degui Yang, Xinggao Liu, Haoxuan Li:
+Proximity Matters: Local Proximity Preserved Balancing for Treatment Effect Estimation. CoRR abs/2407.01111 (2024)
+	[i11]		Zhengnan Li, Haoxuan Li, Hao Wang, Jun Fang, Duoyin Li, Yunxiao Qin:
+FSMLP: Modelling Channel Dependencies With Simplex Theory Based Multi-Layer Perceptions In Frequency Domain. CoRR abs/2412.01654 (2024)
+2023
+	[j5]		Zhaoran Liu, Haozhe Li, Hao Wang, Yilin Liao, Xinggao Liu, Gaojie Wu:
+A novel pipelined end-to-end relation extraction framework with entity mentions and contextual semantic representation. Expert Syst. Appl. 228: 120435 (2023)
+	[j4]		Yuxin Huang, Eric Hao Wang, Zhaoran Liu, Licheng Pan, Haozhe Li, Xinggao Liu:
+Modeling Task Relationships in Multivariate Soft Sensor With Balanced Mixture-of-Experts. IEEE Trans. Ind. Informatics 19(5): 6556-6564 (2023)
+	[j3]		Xin Deng, Hao Wang, Mai Xu, Li Li, Zulin Wang:
+Omnidirectional Image Super-Resolution via Latitude Adaptive Network. IEEE Trans. Multim. 25: 4108-4120 (2023)
+	[c7]		Zhichao Chen, Leilei Ding, Jianmin Huang, Zhixuan Chu, Qingyang Dai, Hao Wang:
+Unsupervised Anomaly Detection & Diagnosis: A Stein Variational Gradient Descent Approach. CIKM 2023: 3783-3787
+	[c6]		Zhichao Chen, Leilei Ding, Zhixuan Chu, Yucheng Qi, Jianmin Huang, Hao Wang:
+Monotonic Neural Ordinary Differential Equation: Time-series Forecasting for Cumulative Data. CIKM 2023: 4523-4529
+	[c5]		Jiajun Fan, Yuzheng Zhuang, Yuecheng Liu, Jianye Hao, Bin Wang, Jiangcheng Zhu, Hao Wang, Shu-Tao Xia:
+Learnable Behavior Control: Breaking Atari Human World Records via Sample-Efficient Behavior Selection. ICLR 2023
+	[c4]		Haoxuan Li, Kunhan Wu, Chunyuan Zheng, Yanghao Xiao, Hao Wang, Zhi Geng, Fuli Feng, Xiangnan He, Peng Wu:
+Removing Hidden Confounding in Recommendation: A Unified Multi-Task Learning Approach. NeurIPS 2023
+	[c3]		Hao Wang, Jiajun Fan, Zhichao Chen, Haoxuan Li, Weiming Liu, Tianqiao Liu, Quanyu Dai, Yichao Wang, Zhenhua Dong, Ruiming Tang:
+Optimal Transport for Treatment Effect Estimation. NeurIPS 2023
+	[i10]		Hao Wang, Zhiyu Wang, Yunlong Niu, Zhaoran Liu, Haozhe Li, Yilin Liao, Yuxin Huang, Xinggao Liu:
+AttentionMixer: An Accurate and Interpretable Framework for Process Monitoring. CoRR abs/2302.10426 (2023)
+	[i9]		Licheng Pan, Hao Wang, Zhichao Chen, Yuxing Huang, Xinggao Liu:
+TMoE-P: Towards the Pareto Optimum for Multivariate Soft Sensors. CoRR abs/2302.10477 (2023)
+	[i8]		Jiajun Fan, Yuzheng Zhuang, Yuecheng Liu, Jianye Hao, Bin Wang, Jiangcheng Zhu, Hao Wang, Shu-Tao Xia:
+Learnable Behavior Control: Breaking Atari Human World Records via Sample-Efficient Behavior Selection. CoRR abs/2305.05239 (2023)
+	[i7]		Hao Wang, Jianxun Lian, Mingqi Wu, Haoxuan Li, Jiajun Fan, Wanyue Xu, Chaozhuo Li, Xing Xie:
+ConvFormer: Revisiting Transformer for Sequential User Modeling. CoRR abs/2308.02925 (2023)
+	[i6]		Zhichao Chen, Leilei Ding, Zhixuan Chu, Yucheng Qi, Jianmin Huang, Hao Wang:
+Monotonic Neural Ordinary Differential Equation: Time-series Forecasting for Cumulative Data. CoRR abs/2309.13452 (2023)
+	[i5]		Xu Huang, Jianxun Lian, Hao Wang, Defu Lian, Xing Xie:
+A Data-Centric Multi-Objective Learning Framework for Responsible Recommendation Systems. CoRR abs/2310.13260 (2023)
+	[i4]		Hao Wang, Zhichao Chen, Jiajun Fan, Haoxuan Li, Tianqiao Liu, Weiming Liu, Quanyu Dai, Yichao Wang, Zhenhua Dong, Ruiming Tang:
+Optimal Transport for Treatment Effect Estimation. CoRR abs/2310.18286 (2023)
+2022
+	[j2]		Haozhe Li, Wenhai Wang, Zhaoran Liu, Yunlong Niu, Hao Wang, Shunping Zhao, Yilin Liao, Weigeng Yang, Xinggao Liu:
+A novel locality-sensitive hashing relational graph matching network for semantic textual similarity measurement. Expert Syst. Appl. 207: 117832 (2022)
+	[c2]		Hao Wang, Tai-Wei Chang, Tianqiao Liu, Jianmin Huang, Zhichao Chen, Chao Yu, Ruopeng Li, Wei Chu:
+ESCM2: Entire Space Counterfactual Multi-Task Model for Post-Click Conversion Rate Estimation. SIGIR 2022: 363-372
+	[i3]		Hao Wang, Tai-Wei Chang, Tianqiao Liu, Jianmin Huang, Zhichao Chen, Chao Yu, Ruopeng Li, Wei Chu:
+ESCM2: Entire Space Counterfactual Multi-Task Model for Post-Click Conversion Rate Estimation. CoRR abs/2204.05125 (2022)
+	[i2]		Hao Wang, Zhichao Chen, Jiajun Fan, Yuxin Huang, Weiming Liu, Xinggao Liu:
+Entire Space Counterfactual Learning: Tuning, Analytical Properties and Industrial Applications. CoRR abs/2210.11039 (2022)

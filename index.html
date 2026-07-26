@@ -1,8 +1,29 @@
-<p>Hello 大家好</p>
-<p>我是霸都丶傲天，这是我的个人网站。 </p>
-<p>很高兴你来到这里, 你可以在以下的网站找到我</p>
+---
+layout: default
+title : Homepage
+navbar_title: Home
+---
+{% include widgets/profile_card.html %}
 
-<ul>
-  <li> <a href="https://www.zhihu.com/people/AJLoveChina">知乎</a> </li>
-  <li> <a href="http://hejie.nigeerhuo.com">我的博客(已经不更细了,现在在知乎写文章)</a> </li>
-</ul>
+{% include widgets/url_debug_message.html %}
+
+{% if site.data.display.homepage.show_experience %}
+{% include widgets/experience_card.html %}
+{% endif %}
+
+{% if site.data.display.homepage.show_news %}
+{% assign count_news = site.data.news | size %}
+{% if count_news > 0 %}
+{% include widgets/news_card.html %}
+{% endif %}
+{% endif %}
+
+{% if site.data.display.homepage.show_selected_publications %}
+{% assign pubs = site.publications | sort: "date" | reverse | where: "selected", true %}
+{% 
+    include widgets/publication_card.html 
+    publications=pubs
+    title='<i class="fas fa-star"></i>Publications'
+%}
+{% endif %}
+
