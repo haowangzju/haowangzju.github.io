@@ -3,8 +3,8 @@ secondary_name: "Ph.D. of Zhejiang University"
 navbar_name: "Hao Wang"
 
 positions:
-- name: '<strong>Postdoctoral Research Fellow of Carnegie Mellon University</strong>'
 - name: '<strong>Postdoctoral Research Fellow of Mohamed bin Zayed University of Artificial Intelligence</strong>'
+- name: '<strong>Postdoctoral Research Fellow of Carnegie Mellon University</strong>'
 
 email: "Ho-ward [AT] outlook.com"
 # cv_link: link-to-your-cv-file
@@ -24,14 +24,14 @@ dblp: 347/3761
 
 short_bio: >-
   <p style="margin-bottom: 0.9rem; color: #212529; text-align: justify;">
-    Hao Wang is currently a Postdoctoral Research Fellow at <a href="https://www.cmu.edu/" target="_blank">CMU</a> and <a href="https://mbzuai.ac.ae/" target="_blank">MBZUAI</a>, mentored by <a href="https://www.andrew.cmu.edu/user/kunz1/" target="_blank">Prof. Kun Zhang</a>.
+    Hao Wang is currently a Postdoctoral Research Fellow at <a href="https://mbzuai.ac.ae/" target="_blank">MBZUAI</a> and <a href="https://www.cmu.edu/" target="_blank">CMU</a>, mentored by <a href="https://www.andrew.cmu.edu/user/kunz1/" target="_blank">Prof. Kun Zhang</a>.
     Before that, he worked at Ant Group, Microsoft Research Asia, and Xiaohongshu (selected for the first RedStar program, ¥3,500/day), and received his Ph.D. degree at <a href="https://www.zju.edu.cn/" target="_blank">Zhejiang University</a> in 2026.
     His research focuses on <u>learning from imperfect supervision</u>, addressing challenges such as <u>selection bias</u>, <u>label noise</u>, <u>implicit feedback</u>, <u>incomplete observations</u>, and <u>label correlations</u>, with applications to <u>Time Series & World Model</u>, <u>Recommendation Systems</u>, and <u>Reward & Agents</u>.
     He has published over 50 papers at top-tier conferences and journals including ICML, NeurIPS, ICLR, KDD, SIGIR, KDE, and TPAMI, with multiple oral/spotlight papers. He also serves as the area chair (AC) or program committee (PC) member for top-tier conferences including ICML, NeurIPS, ICLR, SIGKDD, WWW, AAAI, and the invited reviewer for prestigious journals such as TPAMI, TKDE, TNNLS, and Artificial Intelligence.
   </p>
 
   <p style="margin-bottom: 0.9rem; color: #212529; text-align: justify;">
-    王浩是<a href="https://www.cmu.edu/" target="_blank">卡内基梅隆大学</a>和<a href="https://mbzuai.ac.ae/" target="_blank">穆罕默德·本·扎耶德人工智能大学</a>的博士后研究员，合作导师为<a href="https://www.andrew.cmu.edu/user/kunz1/" target="_blank">张坤教授</a>。
+    王浩是<a href="https://mbzuai.ac.ae/" target="_blank">穆罕默德·本·扎耶德人工智能大学</a>和<a href="https://www.cmu.edu/" target="_blank">卡内基梅隆大学</a>的博士后研究员，合作导师为<a href="https://www.andrew.cmu.edu/user/kunz1/" target="_blank">张坤教授</a>。
     在此之前，他曾在蚂蚁集团、微软亚洲研究院和小红书（首届RedStar项目，¥3,500/天）工作，并于2026年在<a href="https://www.zju.edu.cn/" target="_blank">浙江大学</a>获得博士学位。
     他的研究重点是<u>基于不完美监督信号的机器学习</u>，具体包括<u>选择偏差</u>、<u>标签噪声</u>、<u>隐式反馈</u>、<u>不完整观测</u>和<u>标签伪相关</u>等问题，应用于<u>时间序列与世界模型</u>、<u>推荐系统</u>和<u>奖励与智能体</u>。
     他在顶级会议和期刊上发表了50余篇论文，包括ICML、NeurIPS、ICLR、KDD、SIGIR、KDE和TPAMI，其中多篇为口头报告/亮点论文。他担任ICML、NeurIPS、ICLR、SIGKDD、WWW、AAAI等顶级会议的领域主席或审稿人，以及TPAMI、TKDE、TNNLS和Artificial Intelligence等权威期刊的特邀审稿人。
